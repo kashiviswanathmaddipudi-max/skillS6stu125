@@ -1,6 +1,6 @@
 // File name: HelloWorld.java
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("2400090125");
+        System.out.println("bug fixed");
     }
 }
